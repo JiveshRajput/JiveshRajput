@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JiveshRajput
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Web Development
+- 👀 Full Stack Web Developer | Native App Developer 
+- 🌱 Talks about NextJS, ReactJS, ExpressJS, MongoDB, Tailwind CSS, Javascript, CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me through Call Just dail 9517425033
 
